@@ -1,0 +1,3 @@
+C:/Users/bratk/OneDrive/Plocha/СПбГЭТУ ЛЭТИ им.Ленина/Программирование/programm/cmake-build-debug/CMakeFiles/programm.dir
+C:/Users/bratk/OneDrive/Plocha/СПбГЭТУ ЛЭТИ им.Ленина/Программирование/programm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bratk/OneDrive/Plocha/СПбГЭТУ ЛЭТИ им.Ленина/Программирование/programm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
